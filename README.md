@@ -34,7 +34,7 @@ Ingestion request and job creation
 Job status updates
 Priority order enforcement
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/Sidhant-singh/DataIngestionAPI_System
