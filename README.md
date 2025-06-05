@@ -1,12 +1,12 @@
-# 📊 Data Ingestion API System
+# Data Ingestion API System
 
-## 🔧 Tech Stack
+## Tech Stack
 - FastAPI
 - Python 3.9+
 - threading & asyncio
 - In-memory storage (dictionary + queue)
 
-## 📦 Features
+## Features
 - Submit ingestion jobs with priority
 - Async batch processing (3 per batch, 1 batch per 5 seconds)
 - View status with `GET /status/<ingestion_id>`
